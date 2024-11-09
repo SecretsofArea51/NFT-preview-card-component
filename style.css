@@ -1,0 +1,57 @@
+body{
+    background-color: #0D1A2D;
+    font-family:sans-serif;
+    color: rgb(95, 118, 150);
+}
+.box{
+    background-color: rgb(21, 39, 63);
+    width: 100%;
+    max-width: 350px;
+    height: 100%;
+    max-height: 592px;
+    position: fixed;
+    margin: auto;
+    inset: 0;
+    border-radius: 12px;
+    box-shadow: 1px 20px 10px 20px #0C1729;
+    padding: 25px;
+    box-sizing: border-box;
+}
+img{
+    width: 100%;
+    border-radius: 1rem;
+}
+h2{
+    color: rgb(248, 252, 255);
+    /* opacity: 0.5; */
+}
+.eth{
+    color: rgb(8, 251, 247);
+    padding-top: 3px;
+    padding-bottom: 20px;
+
+}
+.days{
+    position: absolute;
+    bottom: 103px;
+    left: 230px;
+}
+hr{
+    border-color:#23354D ;
+    margin-bottom: 20px;
+}
+span{
+    color: rgb(208, 218, 233);
+}
+.boxy{
+    width: 2rem;
+    height: 2rem;
+    background-color: aliceblue;
+    border-radius: 50%;
+    /* background-image: url(/favicon.ico); */
+}
+.name{
+    position: relative;
+    bottom: 37px;
+    left: 49px;
+}
